@@ -1,7 +1,7 @@
 import pandas as pd
 
 df = pd.Dataframe()
-user = *e
+user = "***"
 item = itm
 item = item
 #stuff
